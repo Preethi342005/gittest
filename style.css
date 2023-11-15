@@ -1,0 +1,22 @@
+<html>
+    <head>Internal style</head>
+    <style type=""text/css">
+    h1
+    {
+        color:green;
+    }
+    p
+    {
+        color:#E550C7;
+        background-color: rgb(80, 227, 229 );
+    }
+    body
+        {
+            background-color:#50CEE5;
+        }
+    </style>
+    <body>
+        <h1>CSS</h1>
+        <p>Gives style to html program</p>
+    </body>
+</html>
